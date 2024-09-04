@@ -1,6 +1,8 @@
 .container{
     background-color: blue;
+    align-items: center;
 }
-.container h1{
-color: red;
+.h1{
+    color: red;
+    background-color: black;
 }
